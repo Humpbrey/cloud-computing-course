@@ -20,9 +20,13 @@ This repo serves as my organized workspace for all course requirements, includin
 **📂 Repository Structure**
 cloud-computing-course/
 ├── activities/
+
 ├── projects/
+
 ├── notes/
+
 ├── reflections/
+
 └── README.md
 
 **📖 Key Concepts Covered**
